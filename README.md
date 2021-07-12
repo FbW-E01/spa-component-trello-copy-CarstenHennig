@@ -6,6 +6,7 @@
 
 ```
     1h 30m: able to render tasks
+    // my time: 2:30
     2h 00m: able to delete tasks
     4h 30m: able to add new task using prompt()
     5h 30m: able to add new task list using prompt()
@@ -16,5 +17,6 @@
 - **While working fast, still write elegant code that is formatted well!**
 
 **trello-copy-exercise**
-*  Work on rendering a single list of cards. For more practice, render multiple lists of cards side-by-side.
- <img src="./src/images/trello-copy.png" alt="trello card item" width="500" />
+
+- Work on rendering a single list of cards. For more practice, render multiple lists of cards side-by-side.
+  <img src="./src/images/trello-copy.png" alt="trello card item" width="500" />

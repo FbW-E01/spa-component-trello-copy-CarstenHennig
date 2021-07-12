@@ -1,0 +1,17 @@
+.mainContainer {
+  display: flex;
+}
+
+.container {
+  border: 1px solid green;
+  width: 70%;
+  height: 200px;
+  overflow: scroll;
+  padding: 10px;
+  margin: 5px;
+}
+
+.textLines {
+  display: flex;
+  flex-direction: column;
+}
